@@ -5,7 +5,6 @@ This project automates the setup of an Elasticsearch cluster based on user input
 ## Prerequisites
 
 - Jenkins
-- Terraform
 - Git
 - SSH access to the target servers
 - Deployment Automation tool Like Teraform or Ansible etc.
